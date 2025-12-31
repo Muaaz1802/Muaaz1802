@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Computer Science undergraduate** specializing in **Artificial Intelligence and Machine Learning**, with a deep interest in building solutions that solve real-world problems. My experience spans from developing productivity and safety tools for coal mines to creating intelligent voice agents for recruitment.
+I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, focused on building practical, scalable systems that solve real-world problems. My work spans data engineering pipelines, computer vision–based ML systems, and AI-assisted developer tooling, with a strong bias toward clean architecture, performance, and production readiness. I operate deeply within Linux environments, with an advanced level of comfort in low-level system customization, kernel-adjacent tooling, and workflow optimization—treating the operating system as an instrument, not a black box. This systems-first mindset shapes how I design, debug, and harden software in real-world conditions.
 
 - 🎓 Currently pursuing **B.Tech in Computer Science** at Ramdeobaba University (2023-2027)
 - 🔬 **R&D Intern** at Crux HR (Nov 2024 - May 2025)
