@@ -106,17 +106,14 @@ Working on developing AI-driven solutions for recruitment processes, focusing on
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muaaz1802&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muaaz1802&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muaaz1802&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaaz1802&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=muaaz1802&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muaaz1802&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## 🤝 Let's Connect!
 
