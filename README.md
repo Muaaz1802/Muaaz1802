@@ -59,7 +59,7 @@ I'm a passionate **Computer Science undergraduate** specializing in **Artificial
 
 ## 💼 Professional Experience
 
-### Backend Developer Intern | Predict-Xplore (IIT Bombay)
+### 💻 Backend Developer Intern | Predict-Xplore (IIT Bombay)
 "Sept 2025 - Present"
 
 Backend Developer Intern at Predict-Xplore (IIT Bombay), responsible for stabilizing ML backend pipelines, correcting model inference outputs, and resolving production-level integration issues. Implemented and optimized real-time video streaming using FFmpeg while contributing to report generation systems and core backend reliability.
