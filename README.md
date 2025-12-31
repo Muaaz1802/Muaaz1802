@@ -57,24 +57,21 @@ I'm a passionate **Computer Science undergraduate** specializing in **Artificial
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚀 Featured Projects
-
-### 🍅 [Tomato Disease Detection](https://github.com/Muaaz1802/tomato-disease-detection)
-A web application that uses deep learning to identify diseases in tomato plants from images.
-- **Tech Stack:** Python, Streamlit, TensorFlow, CNN
-- **Features:** Image upload, disease classification, treatment recommendations
-
-### 🕳️ [Pothole Detection](https://github.com/Muaaz1802/pothole-detection)
-A machine learning model that detects potholes on roads using image processing techniques.
-- **Tech Stack:** Python, PyTorch, OpenCV, Keras, TensorFlow, CNN
-- **Applications:** Smart city infrastructure, road safety
-
-### 🌐 [Portfolio Website](https://muaaz.tech/)
-A responsive personal portfolio website showcasing my work and skills.
-- **Tech Stack:** React, Tailwind CSS, Vite, TypeScript
-- **Features:** Responsive design, smooth animations, project showcase
-
 ## 💼 Professional Experience
+
+### Backend Developer Intern | Predict-Xplore (IIT Bombay)
+"Sept 2025 - Present"
+
+Backend Developer Intern at Predict-Xplore (IIT Bombay), responsible for stabilizing ML backend pipelines, correcting model inference outputs, and resolving production-level integration issues. Implemented and optimized real-time video streaming using FFmpeg while contributing to report generation systems and core backend reliability.
+
+**Key Achievements:**
+
+- Developed and fixed backend services for ML-driven workflows.
+- Debugged and corrected model output pipelines to ensure reliable inference results.
+- Implemented and stabilized real-time video streaming using FFmpeg.
+- Resolved backend integration issues impacting report generation and downloads.
+- Collaborated with cross-functional team on model fixes and production debugging.
+
 
 ### 🔬 R&D Intern | Crux HR
 *Nov 2024 - May 2025*
