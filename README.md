@@ -106,8 +106,6 @@ Working on developing AI-driven solutions for recruitment processes, focusing on
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muaaz1802&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=muaaz1802&theme=tokyonight)
