@@ -106,11 +106,7 @@ Working on developing AI-driven solutions for recruitment processes, focusing on
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muaaz1802&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muaaz1802&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muaaz1802&layout=compact&langs_count=8&theme=tokyonight)
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Muaaz1802?cardType=github&theme=github-dark&fontFamily=Cascadia%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 🤝 Let's Connect!
