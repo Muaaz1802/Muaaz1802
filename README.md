@@ -83,26 +83,13 @@ Working on developing AI-driven solutions for recruitment processes, focusing on
 - 🤖 Implemented a conversational AI agent for interview scheduling, **improving response rates by 25%**
 - 🎨 Contributed to the design and development of a user-friendly dashboard for recruiters
 
-## 🎓 Education & Certifications
+
+## 🎓 Education
 
 ### 🏫 Bachelor of Technology in Computer Science
 **Ramdeobaba University** | 2023 - 2027  
 **Specialization:** Artificial Intelligence and Machine Learning  
-**GPA:** 7.8/10
 
-**Relevant Coursework:**
-- Machine Learning Fundamentals
-- Neural Networks & Deep Learning
-- Reinforcement Learning
-- Computer Vision
-- Natural Language Processing
-- Data Structures & Algorithms
-- Statistical Analysis
-- Mathematics for ML
-
-### 📜 Certifications
-- **Data Analysis with R Programming** - Google (Nov 2024)
-  - [View Certificate](https://www.coursera.org/account/accomplishments/verify/H63632983SU5)
 
 ## 📊 GitHub Stats
 
