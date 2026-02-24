@@ -10,7 +10,6 @@ I’m a Computer Science undergraduate specializing in Artificial Intelligence a
 
 - 🎓 Currently pursuing **B.Tech in Computer Science** at Ramdeobaba University (2023-2027)
 - 🔬 **R&D Intern** at Crux HR (Nov 2024 - May 2025)
-- 🚀 Co-founder of **Crux HR** - working on AI-driven recruitment automation
 - 🌱 Currently expanding skills in **Data Science** and **DevOps**
 - 💡 Passionate about applying **full-stack technologies** with **AI and automation**
 - 📊 Academic GPA: **7.8/10**
