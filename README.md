@@ -3,15 +3,15 @@
             .>/CbWB$$$$$$$$$BWbC/>.                . OS: ...................... Arch Linux (Hyprland / Omarchy)
           >vhB$$$$$$$$$$$$$$$$$$$@hv>              . Uptime: .................. 21 years, 0 months, 0 days
         _ZB$$$$$$$$$$$$$$$$$$$$$$$$$BZ-            . Host: .................... Ramdeobaba University (2023–2027)
-      ;L@$$$Mpa8$$$$$$$$$$$$$$$8apM$$$@L;          . Kernel: .................. B.Tech CSE · AI/ML Specialization · GPA 7.8
-     -#$$$$@] .;]XpZJzvnvcJZpX[;' -@$$$$#?         . IDE: ........................... Neovim + Arch tools
+      ;L@$$$Mpa8$$$$$$$$$$$$$$$8apM$$$@L;          . Kernel: .................. B.Tech CSE · AI/ML  · GPA 7.8
+     -#$$$$@] .;]XpZJzvnvcJZpX[;' -@$$$$#?         . IDE: ........................... Neovim 
     ?%$$$$$Bl                     ;%$$$$$%]        .
-   ;W$$$$$$8+                     <&$$$$$$WI       . Languages & Databases: .. Python, C++, JavaScript, PostgreSQL, MongoDB
-   U$$$$$$&+                       <M$$$$$$U       . Stack.AI/ML: ............ PyTorch · Gemini API · pgvector · CV
+   ;W$$$$$$8+                     <&$$$$$$WI       . Languages & Databases: .. Python, JavaScript, PostgreSQL, MongoDB
+   U$$$$$$&+                       <M$$$$$$U       . Stack.AI/ML: ............ ML · GenAI · LLMs
   ^M$$$$$$u                         r$$$$$$M^      . Stack.DevOps: ........... Docker · AWS · GCP · GitHub
   lB$$$$$$)       Muaaz1802 :)      }$$$$$$Bl      .
   ;%$$$$$$X                         v$$$$$$%;      . Experience.Current: ..... Jobless :)
-  .b$$$$$$&i                       !W$$$$$$b.      . Experience.Past: ........ Backend Intern · IIT Bombay (Predict-Xplore)
+  .b$$$$$$&i                       !W$$$$$$b.      . Experience.Past: ........ Backend Intern · IIT Bombay
    ($$$$$$$#[                     ]*$$$$$$$(       . Experience.Past: ........ R&D Intern · Crux HR, Bengaluru
    .Q$$$oZa$$dr+:' .       . ':_rp$$$$$$$$Q.       . Building: ............... OptiPlace.ai — College Placement Platform
     ^Z$$axl_d$$$%#p>       iwo8$$$$$$$$$$Z^
@@ -20,6 +20,6 @@
          ?0%$@*ddh}         ($$$$$$80?             . Portfolio: .............. muaazs.dev
            I/OM$$$|         |$$@#O/I
               ^<(j;         ;j(<^                  — GitHub Stats ————————————————————————————————————————————————————————————
-                                                   . Focus: ........... Data Science  |  Goal: ................. DevOps & AI
-                                                   . Seeking: .................. Job :)
+                                                   . Goal: ...... DevOps & AI
+                                                   . Seeking: .................. Intenship :)
 ```
