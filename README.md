@@ -9,7 +9,7 @@
    ;W$$$$$$8+                     <&$$$$$$WI       . Languages & Databases: .. Python, C++, JavaScript, PostgreSQL, MongoDB
    U$$$$$$&+                       <M$$$$$$U       . Stack.AI/ML: ............ PyTorch · Gemini API · pgvector · CV
   ^M$$$$$$u                         r$$$$$$M^      . Stack.DevOps: ........... Docker · AWS · GCP · GitHub
-  lB$$$$$$)                         }$$$$$$Bl      .
+  lB$$$$$$)       Muaaz1802 :)      }$$$$$$Bl      .
   ;%$$$$$$X                         v$$$$$$%;      . Experience.Current: ..... Jobless :)
   .b$$$$$$&i                       !W$$$$$$b.      . Experience.Past: ........ Backend Intern · IIT Bombay (Predict-Xplore)
    ($$$$$$$#[                     ]*$$$$$$$(       . Experience.Past: ........ R&D Intern · Crux HR, Bengaluru
